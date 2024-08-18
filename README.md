@@ -9,5 +9,4 @@ You can specifiy the category and difficulty of the questions you want to be ask
 ![image](https://github.com/user-attachments/assets/a116be34-35e2-48e0-968a-b941f3bf88b4)
 
 ## Install
-You can replcae the token with your own generated from the Discord Developer Portal or you can use this link to add the bot to a server that you manage.
-https://discord.com/oauth2/authorize?client_id=1274522826681876561
+You can replcae the token with your own generated from the Discord Developer Portal
